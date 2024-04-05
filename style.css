@@ -179,3 +179,15 @@ footer{
     background-color: #f1f1f1;
     text-align: center;
 }
+
+.project_list div{
+    background-color: #4d4b4b;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.project_list div i{
+    font-size: 50px;
+    margin: 2px auto;
+    padding: 10px;
+}
